@@ -1,0 +1,3 @@
+[submodule "neuralmonkey"]
+	path = neuralmonkey
+	url = https://github.com/kasnerz/neuralmonkey
